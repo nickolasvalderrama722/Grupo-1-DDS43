@@ -1,0 +1,2 @@
+Este archivo corresponde al segundo punto de control realizado por Nicolás.
+Evidencia del trabajo colaborativo usando Git y GitHub.
